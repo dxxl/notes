@@ -33,7 +33,7 @@ You may also download the zip file version of it and extract it yourself, Here's
 3. Locate where you downloaded the Zip File and Extract it
 
 ![2021-12-14-17:47:14_326x34](https://user-images.githubusercontent.com/93421177/145974219-11bcb154-a6ef-4968-9738-f9184f93e5b9.png)
-[^1] of course im doing this my way, you extract it your way ^^
+[^1]: of course im doing this my way, you extract it your way ^^
 
 ---
 
