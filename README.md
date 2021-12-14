@@ -1,5 +1,7 @@
 ## DXXL NOTES REPOSITORY
-this is the official repository of my school notes, this place will be updated and is free to the public (maybe), please take care of these notes
+this is the official repository of my school notes, 
+this place will be updated and is free to the public 
+(maybe), please take care of these notes
 
 
 
