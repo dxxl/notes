@@ -23,8 +23,10 @@ git clone https://github.com/dxxl/notes.git
 
 You may also download the zip file version of it and extract it yourself, Here's how:
 
-1. Go to "Code" and find "Download Zip file"
-![()
+1. Go to "code" and find "Download Zip file"
+![alt text](![2021-12-14-17:41:19_348x98](https://user-images.githubusercontent.com/93421177/145973305-fdc74d3a-6dfa-49c2-9fb9-3271a9d056a7.png)
+![alt text](![2021-12-14-17:41:29_385x199](https://user-images.githubusercontent.com/93421177/145973370-f751b288-a797-4bdc-b604-6a3fa6a08c64.png)
+
 2.
 
 GOOD LUCK ON YOUR EXAMS GUYERS, OR QUIZZES
