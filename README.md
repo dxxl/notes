@@ -29,7 +29,8 @@ You may also download the zip file version of it and extract it yourself, Here's
 
 ![2021-12-14-17:41:29_385x199](https://user-images.githubusercontent.com/93421177/145973370-f751b288-a797-4bdc-b604-6a3fa6a08c64.png)
 
-2.
+2. Download the Zip File
+3. Locate where you downloaded the Zip File and Extract it
 
 GOOD LUCK ON YOUR EXAMS GUYERS, OR QUIZZES
 
