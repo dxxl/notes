@@ -13,7 +13,7 @@ Updating this repository will happen usually before exams, so others can have un
 
 
 ### REASONS WHY I HAVE THIS
-mainly to ==help people get through exams==, i'm fond of typing and writing down notes and every time there's a discussion, its either teachers wont send the slides and make us take notes because its our responsibility and also so that i have something to do in class besides listening and i have materials to study as well
+mainly to help people get through exams, i'm fond of typing and writing down notes and every time there's a discussion, its either teachers wont send the slides and make us take notes because its our responsibility and also so that i have something to do in class besides listening and i have materials to study as well
 
 
 
