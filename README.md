@@ -4,11 +4,13 @@ Updating this repository will happen usually before exams, so others can have un
 
 this is also to help people get through exams, i'm fond of typing and writing down notes and every time there's a discussion, its either teachers wont send the slides and make us take notes because its our responsibility and also so that i have something to do in class besides listening and i have materials to study as well
 
-### ATTENTION!!
+**ANNOUNCEMENT**
+----------------
 If anyone wants to contribute to this compilation (cant just manage this myself), I will be glad that you will, pm me your github acc and add all your notes to your hearts content!
 
 
-### HOW TO GET A COPY?
+**HOW TO GET A COPY?**
+----------------------
 you may clone the rep by doing this on your linux/MAC/windows terminal, you will need **git clone** installed, I dont use windows so its up to you how to clone or get a copy of the notes
 ```
 git clone https://github.com/dxxl/notes.git
