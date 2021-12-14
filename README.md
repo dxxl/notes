@@ -16,7 +16,12 @@ you may clone the rep by doing this on your linux/MAC/windows terminal, you will
 git clone https://github.com/dxxl/notes.git
 ```
 
-You may also download the zip file version of it and extract it yourself, my friend/classmate found that way so credits to them!
+You may also download the zip file version of it and extract it yourself, Here's how:
+
+---
+
+1. Go to "Code" and find "Download Zip file"
+2.
 
 GOOD LUCK ON YOUR EXAMS GUYERS, OR QUIZZES
 ### AUTHORS
