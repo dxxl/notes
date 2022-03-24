@@ -1,0 +1,181 @@
+* CITATION
+- Accordiing   to   University   Library   (n.d),   citation
+  identifies for the reader the original source for an idea,
+  information or image that is referred to in a work
+  
+** WHY CITE?
+- besides avoiding plagiarism citing:
+  
+  1. is the right to do to  give credit to those who had the
+     idea
+
+  2. shows that  you have  read and understand  what experts
+     have had to say about your topic
+
+  3. Helps people  find the  sources that  you used  in case
+     they want to read more about the topic
+
+  4. provides evidence for your arguments
+
+  5. is professional  and standard pratice for  students and
+     scholars
+
+** IN CITING SOURCES
+*** IN TEXT CITATION
+- in the body of a  paper, the in text citation acknowledges
+  the source of information used
+
+*** REFERENCES
+- At the  end of  a paper,  the citations  are compile  on a
+  references or works cited list
+
+
+** CITATION BASIS
+1. In  the body of  the paper  to acknowledge the  source of
+   your information, This is meant to be a shortened version
+   of the  full citation that  appears on the final  page of
+   your peper
+
+2. Place  full citations  for all your  sources on  the last
+   page entitled FERENCES or WORKS CITED (different citation
+   styles require different titles)
+
+   Full cictations  are meant  to provid reads  with enoughn
+   information so that they can locate the source themselves
+
+3. APA or MLA are citation styles.
+
+** MPA AND APA
+*** MPA
+- Modern Language Association
+
+*** APA
+- American Psychological Association
+- In SSA, we use the APA, 7th Edition.
+ 
+** WHAT SHOULD YOU CITE?
+*** QUOTING
+- Are  you quotiing  two or  more consecutive  words from  a
+  source, Then the  original source should be  cited and the
+  words or phrase place in quotes
+
+*** PARAPHRASING
+- if an idea or information  comes from another source, even
+  if you put it in your own words, you still need to  credit
+  the source
+*** General VS. UNFAMILIAR KNOWLEDGE
+- you do not need to  cite material which is accepted common
+  knowledge, if in doubt  whether your information is common
+  knowledge or not, cite it.
+
+*** FORMATS
+- We usually think of books and articles, However if you use
+  material from websites flims,  music, graphs, tables, etc,
+  you'll also need to cite these as well
+
+** HOW TO USE APA FORMAT AND QUOTING
+- When usiing APA format, follow  the author- date method of
+  in-text citation,  This means that the  author's last name
+  and the year  of publication for the  source should appear
+  in the text.
+      Ex. (Jones, 1998)
+
+- One complete  reference for  each source should  appear in
+  the reference list at the end of the paper
+
+- If you are not referring to  an idea from another work But
+  NOT directly  quotiing the material, or  makinig reference
+  to an entire  book, article, or other work,  you only have
+  to make  reference to the  author and year  of publication
+  and not te page number ini your in-text reference
+
+- On  the  other  hand,  if  you  are  directly  quoting  or
+  borrowing from  another book, you should  include the page
+  number at the end of  the parenthetical ciitation, Use the
+  abbreviation "p."  (for one  page) or (pp.)  (for multiple
+  pages) before listing  the page number(s), use  an en dash
+  before listing the ranges, For example, you might write
+
+               "(Jones, 1998, pp. 199-201)"
+
+ - This information is reiterated below
+ - NOTE: Regardless of how  they are referenced, all sources
+   that are cited must appear in the end of the paper.
+
+** IN-TEXT CITATION CAPITALIZATION, UOTES AND ITALICS/UNDERLINING
+- Always capitalize proper pronouns, including author names
+  and initials
+                      "D. Jones"
+
+- If you refer  to the title of a source  within your paper,
+  capitalize all words that are four letters long or greater
+  within  the  title of  a  source:  Permanence and  Change,
+  Exceptions apply  to shohrt  words that are  verbs, nouns,
+  pronouns, adjectives and adverbs
+
+  Ex. Writing New Media, There is Nothing Left to Lose
+
+- Note: In your references list, only the first word a title
+  will be capitalized:
+  
+  Ex. Writing new media
+
+** TITLES
+- When   capitalizing  titles,   capitalize  both   words  a
+  hyphenated compound word
+
+  Ex. Natural-Born Cyborgs
+
+- Capitalize the first word after a dash or colon
+
+- If the title  of the work is italicized  in your reference
+  list, Italicize it, and use case capitalization in text:
+
+  Ex. American Mindl The Wizard of Oz: Friends.
+
+- If the title  of the work is italicized  in your reference
+  list   se   double   quotation  marks   and   title   case
+  capitalization
+
+  Ex. Multimedia Narration: Construction Possible Worlds;
+  "The One Where Chandler Can't Cry"
+
+** SHORT QUOTATIONS
+  If youu are directly quoting from a work, you will need to
+  include the  author, year  of publication and  page number
+  for the reference (preceded by  "p." for a single page and
+  "pp." for a span of muiltiple pages, with the page numbers
+  seperated by an en dash
+
+  You can introduce the quotation  with a signal phrase that
+  inicludes the  author's last  name follow  by the  date of
+  publication in parentheses
+  
+
+Ex. Jones (1998) found "students often had difficulty using
+    APA style" (p. 199) 
+
+
+** CHEATSHEET
+    Signal Phrase = According to..
+    Parathetical Citation = inside a parenthesis
+
+** LONG QUOTATIONS
+  Place Direct quotations  that are 40 words or  longer in a
+  free  standing   block  of  typewritten  lines   and  omit
+  quotations. Start  the quotation  on a new  line, indented
+  1/2 inch from the left margin
+
+  "Direct quotations from sources  that do not contain pages
+  should not reference  another logical identifying element:
+  a paragraph, a chapter number,  a section number, a table,
+  number,  or something  else. Older  works (like  religious
+  texts) can also  incorporate special locations identifiers
+  like verse numbers"
+
+  In short:  pick a substitute  for page numbers  that makes
+  sense for your source
+  
+  Ex.  Jones (1998)  found a  variety of  causes of  student
+  dissatsifaction...
+ 
